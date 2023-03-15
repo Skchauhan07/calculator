@@ -1,0 +1,10 @@
+2023-03-14 00:33:46.822 [main] INFO  calculator.mainClass - Power function
+2023-03-14 00:33:47.024 [main] INFO  calculator.mainClass - 2.0 to the Power of 4.0: 16.0
+2023-03-14 00:39:53.376 [main] INFO  calculator.mainClass - Power function
+2023-03-14 00:39:53.386 [main] INFO  calculator.mainClass - 2.0 to the Power of 4.0: 16.0
+2023-03-14 00:40:43.249 [main] INFO  calculator.mainClass - Square root function 
+2023-03-14 00:40:43.250 [main] ERROR calculator.mainClass - Square root of negative number cannot be calculated
+2023-03-14 00:41:47.250 [main] INFO  calculator.mainClass - Square root function 
+2023-03-14 00:41:47.252 [main] ERROR calculator.mainClass - Square root of negative number cannot be calculated
+2023-03-14 00:42:53.128 [main] INFO  calculator.mainClass - Logarithm function
+2023-03-14 00:42:53.176 [main] INFO  calculator.mainClass - Logarithm of 8.0: 2.0794415416798357
